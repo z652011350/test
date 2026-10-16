@@ -1,0 +1,5 @@
+ADT Git integration validation
+Run: real-20261016-071044-04fab0f7
+Branch: codex/adt-upgrade-20261016-071044-04fab0f7
+Baseline: 8ac84a269e141fbcf252a83bb9bcffddc8417800
+This file contains only synthetic test data.
